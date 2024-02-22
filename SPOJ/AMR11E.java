@@ -7,6 +7,8 @@
 // 
 // Powered by CP Editor (https://cpeditor.org)
 
+// status - accepted
+
 import java.io.*;
 import java.util.*;
 import java.math.*;
