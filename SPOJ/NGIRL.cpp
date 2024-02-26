@@ -1,3 +1,13 @@
+// Problem: Namit In Trouble
+// Contest: SPOJ - Classical
+// URL: https://www.spoj.com/problems/NGIRL/
+// Memory Limit: 1536 MB
+// Time Limit: 100 ms
+// Edited By - Satish Kumar Patra
+// 
+// Powered by CP Editor (https://cpeditor.org)
+// status - accepted, cpp, sieve, prefix sum
+
 #include <bits/stdc++.h>
 
 using namespace std;
